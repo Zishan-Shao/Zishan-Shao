@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, C, Parallel Computing, Kernelized Ridge Regression, SVM, Partitioned Local Depth, CNN, R-CNN, Histogram of Gradient, SIFT, LBP, sparse matrices and statistical knowledges and experience such as EDA, regressions, decision forests, bagging and boosting etc.
 - 💞️ I’m looking to collaborate on any topics about topics listed up, hopefully the application of above approaches
 - 📫 How to reach me: shaoz20@wfu.edu, 15801067888@163.com
-- hobbies: Power Lifting, Boxing, MMA, Genshin Impact, used to be an Anime Fan
+- hobbies: Power Lifting, Boxing, MMA, Genshin Impact, currently practicing Brazilian Jiu-Jitsu used to be an Anime Fan
 
 
 <!---

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any topics about topics listed up, hopefully the application of above approaches
 - 📫 How to reach me: shaoz20@wfu.edu, 15801067888@163.com
 - hobbies: Power Lifting, Boxing, MMA, Genshin Impact, used to be an Anime Fan
-- 📫 How to reach me ...
+- 📫 How to reach me: mobile phone: 336-391-4963   email: shaoz20@wfu.edu
 
 <!---
 Zishan-Shao/Zishan-Shao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
